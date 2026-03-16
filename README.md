@@ -1,4 +1,4 @@
-# GovTech Demo - LangGraph Multi-Agent Marketing Workflow
+# LangGraph Multi-Agent Marketing Workflow
 
 This project implements the workflow in `docs/Multi Agent 320d5f5ab35480819ad7fbd2b803ed41.md` with:
 
@@ -115,7 +115,7 @@ The server exposes tools such as:
 - `update_memory`
 - `score_candidate_post`
 
-## Switch to Postgres backend
+## Switch to Postgres backend if using live data
 
 Set in `.env`:
 
