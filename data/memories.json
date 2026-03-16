@@ -1,0 +1,44 @@
+﻿{
+  "shared": {
+    "scope": "shared",
+    "lessons": [
+      {
+        "timestamp": "2026-03-01T08:12:00Z",
+        "approved_by": "orchestrator",
+        "confidence": 0.84,
+        "lesson": "Product close-up visuals with concrete flavor names outperform generic cafe lifestyle hooks.",
+        "evidence": [
+          "Instagram seasonal flavor posts delivered +16 percent saves versus baseline"
+        ]
+      }
+    ]
+  },
+  "planner": {
+    "scope": "planner",
+    "lessons": [
+      {
+        "timestamp": "2026-03-03T06:40:00Z",
+        "approved_by": "orchestrator",
+        "confidence": 0.81,
+        "lesson": "Always include one customization explainer and one seasonal drop post in each weekly cycle.",
+        "evidence": [
+          "Consistent conversion lift when both assets are present"
+        ]
+      }
+    ]
+  },
+  "creative": {
+    "scope": "creative",
+    "lessons": [
+      {
+        "timestamp": "2026-03-05T10:05:00Z",
+        "approved_by": "orchestrator",
+        "confidence": 0.79,
+        "lesson": "First-frame cup close-up with topping texture improves watch-through and taps.",
+        "evidence": [
+          "Higher CTR on cup close-up motif cluster"
+        ]
+      }
+    ]
+  }
+}

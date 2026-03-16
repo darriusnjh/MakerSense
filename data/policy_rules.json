@@ -1,0 +1,28 @@
+﻿{
+  "brand_001": {
+    "brand_id": "brand_001",
+    "tone_requirements": [
+      "fresh",
+      "friendly",
+      "quality"
+    ],
+    "banned_claims": [
+      "cures stress",
+      "zero sugar for everyone",
+      "doctor approved"
+    ],
+    "required_disclosures": [
+      "availability varies by outlet"
+    ],
+    "platform_rules": {
+      "LinkedIn": [
+        "Use practical and factual framing for sourcing and quality process",
+        "Avoid exaggerated performance-style claims"
+      ],
+      "Instagram": [
+        "Keep copy concise, playful, and product-focused",
+        "Prioritize visuals of drinks and social moments"
+      ]
+    }
+  }
+}

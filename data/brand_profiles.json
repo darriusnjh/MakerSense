@@ -1,0 +1,27 @@
+﻿{
+  "brand_001": {
+    "brand_id": "brand_001",
+    "brand_name": "TeaDojo",
+    "industry": "Food and Beverage",
+    "voice": [
+      "fun",
+      "fresh",
+      "friendly"
+    ],
+    "guidelines": {
+      "core_message": "TeaDojo serves handcrafted bubble tea made with fresh ingredients and customizable sweetness for everyday moments.",
+      "do": [
+        "Highlight flavor, freshness, and drink customization",
+        "Use short, energetic copy with clear calls to action",
+        "Show social moments and product close-ups",
+        "Promote seasonal drops and bundle offers"
+      ],
+      "dont": [
+        "Make medical or health cure claims",
+        "Use stiff corporate language",
+        "Overpromise discounts or availability",
+        "Use fear-based messaging"
+      ]
+    }
+  }
+}

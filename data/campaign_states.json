@@ -1,0 +1,163 @@
+{
+  "campaign_001": {
+    "campaign_id": "campaign_001",
+    "brand_id": "brand_001",
+    "objective": "Increase in-store visits and online orders for TeaDojo's spring flavor lineup.",
+    "channels": [
+      "Instagram",
+      "TikTok",
+      "LinkedIn"
+    ],
+    "budget_constraints": {
+      "paid_budget_usd": 2200,
+      "asset_count_target": 6
+    },
+    "kpis": [
+      "ctr",
+      "save_rate",
+      "order_conversions",
+      "store_visit_rate"
+    ],
+    "status": "scheduled",
+    "scheduled_posts": [
+      {
+        "campaign_id": "campaign_001",
+        "asset_id": "asset_001",
+        "channel": "Instagram Post",
+        "scheduled_for": "2026-03-16T12:16:07.867458+00:00",
+        "payload": {
+          "asset_id": "asset_001",
+          "pillar": "Seasonal Drop Announcement",
+          "channel": "Instagram Post",
+          "caption": "Meet your new summer crush: Mango Pomelo! \ud83c\udf79\u2728 Handcrafted, bursting with tropical freshness, and totally customizable. Ready to sip? #TeaDojoMangoPomelo",
+          "image_prompt": "Bright, energetic close-up of the Mango Pomelo Drink in a clear cup, topped with fresh mango cubes, pomelo pulp, and chewy pearls. Include visible condensation, vibrant fruit motifs, and the TeaDojo logo. Background is fresh and summery with playful accents.",
+          "cta": "Try it now at TeaDojo!",
+          "topic_hint": "Limited-edition launch",
+          "visual_hint": "Cup close-up, real fruit, pearls, fresh and bright colors",
+          "target_segment": "Gen Z, young millennials, bubble tea fans",
+          "generated_image": {
+            "provider": "nano_banana_gemini",
+            "status": "ok",
+            "image_url": "data/generated_images/bright-energetic-close-up-of-the-880d509363-20260316T081519Z.png",
+            "image_path": "data/generated_images/bright-energetic-close-up-of-the-880d509363-20260316T081519Z.png",
+            "mime_type": "image/png",
+            "subject_images_received": 1,
+            "subject_images_used": 1,
+            "subject_warnings": [],
+            "text": ""
+          },
+          "image_constraints_applied": {
+            "subjects": [
+              "Mango Pomelo Drink"
+            ],
+            "elements": [],
+            "subject_image_count": 1,
+            "subject_image_names": [
+              "Mango-Pamelo-Boba.jpeg"
+            ]
+          },
+          "ranking": {
+            "asset_id": "asset_001",
+            "topic_cluster_id": "t_flavor",
+            "visual_cluster_id": "v_product_closeup",
+            "predicted_ctr": 0.0538,
+            "score": 0.672,
+            "rationale": "Matched topic Flavor Discovery and visual Cup Close-Up."
+          }
+        }
+      },
+      {
+        "campaign_id": "campaign_001",
+        "asset_id": "asset_005",
+        "channel": "Instagram Story / Post",
+        "scheduled_for": "2026-03-17T00:16:07.867458+00:00",
+        "payload": {
+          "asset_id": "asset_005",
+          "pillar": "UGC Prompt",
+          "channel": "Instagram Story / Post",
+          "caption": "How do you Mango Pomelo? Snap your custom creation, tag us, and show off your #TeaDojoMangoPomelo moment!",
+          "image_prompt": "Bright, friendly graphic with a Mango Pomelo Drink front and center, camera/phone icon, and callout for user photos. Fun, energetic background with playful fruit accents. TeaDojo logo and hashtag included.",
+          "cta": "Tag @TeaDojo for a chance to be featured!",
+          "topic_hint": "User-generated content, community",
+          "visual_hint": "Drink + phone/camera icon, hashtag, playful accents",
+          "target_segment": "TeaDojo fans, Instagram users, community builders",
+          "generated_image": {
+            "provider": "nano_banana_gemini",
+            "status": "ok",
+            "image_url": "data/generated_images/bright-friendly-graphic-with-a-m-2446e5e6e3-20260316T081559Z.png",
+            "image_path": "data/generated_images/bright-friendly-graphic-with-a-m-2446e5e6e3-20260316T081559Z.png",
+            "mime_type": "image/png",
+            "subject_images_received": 1,
+            "subject_images_used": 1,
+            "subject_warnings": [],
+            "text": ""
+          },
+          "image_constraints_applied": {
+            "subjects": [
+              "Mango Pomelo Drink"
+            ],
+            "elements": [],
+            "subject_image_count": 1,
+            "subject_image_names": [
+              "Mango-Pamelo-Boba.jpeg"
+            ]
+          },
+          "ranking": {
+            "asset_id": "asset_005",
+            "topic_cluster_id": "t_flavor",
+            "visual_cluster_id": "v_product_closeup",
+            "predicted_ctr": 0.0538,
+            "score": 0.672,
+            "rationale": "Matched topic Flavor Discovery and visual Cup Close-Up."
+          }
+        }
+      },
+      {
+        "campaign_id": "campaign_001",
+        "asset_id": "asset_004",
+        "channel": "Instagram Reel / TikTok",
+        "scheduled_for": "2026-03-17T12:16:07.867458+00:00",
+        "payload": {
+          "asset_id": "asset_004",
+          "pillar": "Pour Action ASMR",
+          "channel": "Instagram Reel / TikTok",
+          "caption": "Pour, splash, sip. \ud83c\udf79\ud83d\udc42 #TeaDojoMangoPomelo",
+          "image_prompt": "Slow-motion video of Mango Pomelo Drink being poured into a clear cup, ice clinking, real mango and pomelo bits swirling. Focus on sensory details: splash, bubbles, and condensation. Minimal text overlay, TeaDojo logo in corner.",
+          "cta": "Experience the freshness.",
+          "topic_hint": "Sensory, ASMR, product freshness",
+          "visual_hint": "Slow-motion pour, splash, ice, fruit bits",
+          "target_segment": "Gen Z, ASMR fans, Instagram/TikTok users",
+          "generated_image": {
+            "provider": "nano_banana_gemini",
+            "status": "ok",
+            "image_url": "data/generated_images/slow-motion-video-of-mango-pomel-66f9472a51-20260316T081550Z.png",
+            "image_path": "data/generated_images/slow-motion-video-of-mango-pomel-66f9472a51-20260316T081550Z.png",
+            "mime_type": "image/png",
+            "subject_images_received": 1,
+            "subject_images_used": 1,
+            "subject_warnings": [],
+            "text": ""
+          },
+          "image_constraints_applied": {
+            "subjects": [
+              "Mango Pomelo Drink"
+            ],
+            "elements": [],
+            "subject_image_count": 1,
+            "subject_image_names": [
+              "Mango-Pamelo-Boba.jpeg"
+            ]
+          },
+          "ranking": {
+            "asset_id": "asset_004",
+            "topic_cluster_id": "t_flavor",
+            "visual_cluster_id": "v_pour_action",
+            "predicted_ctr": 0.0517,
+            "score": 0.646,
+            "rationale": "Matched topic Flavor Discovery and visual Pour Action Shot."
+          }
+        }
+      }
+    ]
+  }
+}

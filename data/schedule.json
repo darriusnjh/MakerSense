@@ -1,0 +1,1021 @@
+{
+  "campaign_001": [
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "tdj_li_closeup_01",
+      "channel": "LinkedIn",
+      "scheduled_for": "2026-03-14T17:30:00+00:00",
+      "payload": {
+        "asset_id": "tdj_li_closeup_01",
+        "pillar": "Flavor Discovery",
+        "channel": "LinkedIn",
+        "caption": "Fresh mango green tea is back this weekend. See why this limited flavor keeps selling out.",
+        "image_prompt": "Close-up of mango green tea with pearls and fresh fruit garnish in TeaDojo colors.",
+        "cta": "Try the weekend drop",
+        "topic_hint": "seasonal flavor launch",
+        "visual_hint": "cup close-up",
+        "target_segment": "new_high_intent"
+      }
+    },
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "tdj_ig_custom_01",
+      "channel": "Instagram",
+      "scheduled_for": "2026-03-15T05:30:00+00:00",
+      "payload": {
+        "asset_id": "tdj_ig_custom_01",
+        "pillar": "Easy Customization",
+        "channel": "Instagram",
+        "caption": "Pick your sweetness, ice level, and toppings in three easy steps.",
+        "image_prompt": "Carousel-style visual showing 3 customization steps for a bubble tea order.",
+        "cta": "Build your cup",
+        "topic_hint": "customization tutorial",
+        "visual_hint": "pour action",
+        "target_segment": "returning_high_intent"
+      }
+    },
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "tdj_tt_bundle_01",
+      "channel": "TikTok",
+      "scheduled_for": "2026-03-15T17:30:00+00:00",
+      "payload": {
+        "asset_id": "tdj_tt_bundle_01",
+        "pillar": "Value Bundles",
+        "channel": "TikTok",
+        "caption": "After-work tea run? Grab the two-cup combo and save.",
+        "image_prompt": "Friends sharing two TeaDojo drinks at a table with value bundle text overlay.",
+        "cta": "Claim the combo",
+        "topic_hint": "bundle offer",
+        "visual_hint": "friends hangout",
+        "target_segment": "casual_new"
+      }
+    },
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "TD-SPRING-IGR-001",
+      "channel": "Instagram Reel",
+      "scheduled_for": "2026-03-15T10:33:50.906435+00:00",
+      "payload": {
+        "asset_id": "TD-SPRING-IGR-001",
+        "pillar": "Seasonal Drop",
+        "channel": "Instagram Reel",
+        "caption": "Spring\u2019s here! Meet Mango Green Tea with Brown Sugar Pearls \ud83c\udf75\u2728 Sourced from local farms, crafted for you. Only for a limited time\u2014grab yours before it\u2019s gone!",
+        "image_prompt": "Vibrant close-up of a clear cup of Mango Green Tea with brown sugar pearls, condensation on the cup, fresh mango slices and tea leaves in the background, bold text overlay: 'Mango Green Tea Drop', spring-inspired color palette, energetic lighting.",
+        "cta": "Save this post & try Mango Green Tea today!",
+        "topic_hint": "Spring flavor drop, ingredient sourcing, limited time offer",
+        "visual_hint": "Cup close-up, fresh ingredients, bold text overlay",
+        "target_segment": "Bubble tea fans, seasonal flavor seekers",
+        "generated_image": {
+          "provider": "nano_banana_gemini",
+          "status": "ok",
+          "image_url": "data/generated_images/vibrant-close-up-of-a-clear-cup--80bbcd78f5-20260315T063239Z.png",
+          "image_path": "data/generated_images/vibrant-close-up-of-a-clear-cup--80bbcd78f5-20260315T063239Z.png",
+          "mime_type": "image/png",
+          "text": ""
+        },
+        "ranking": {
+          "asset_id": "TD-SPRING-IGR-001",
+          "topic_cluster_id": "t_flavor",
+          "visual_cluster_id": "v_product_closeup",
+          "predicted_ctr": 0.0538,
+          "score": 0.672,
+          "rationale": "Matched topic Flavor Discovery and visual Cup Close-Up."
+        }
+      }
+    },
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "TD-SPRING-LI-001",
+      "channel": "LinkedIn Post",
+      "scheduled_for": "2026-03-15T22:33:50.906435+00:00",
+      "payload": {
+        "asset_id": "TD-SPRING-LI-001",
+        "pillar": "Brand Story & Sustainability",
+        "channel": "LinkedIn Post",
+        "caption": "At TeaDojo, spring means fresh beginnings\u2014from eco-friendly cups to regionally sourced fruit for our new flavors. Taste the difference, sip sustainably.",
+        "image_prompt": "Behind-the-scenes shot of staff preparing bubble tea, eco-friendly packaging on display, crates of fresh fruit, subtle spring colors, overlay text: 'Sourced with Care. Served with Joy.'",
+        "cta": "Learn more about our sourcing story.",
+        "topic_hint": "Sustainability, ingredient sourcing, brand values",
+        "visual_hint": "Behind-the-scenes, packaging, fresh ingredients",
+        "target_segment": "Conscious consumers, business community",
+        "generated_image": {
+          "provider": "nano_banana_gemini",
+          "status": "ok",
+          "image_url": "data/generated_images/behind-the-scenes-shot-of-staff--8ef1af74e3-20260315T063324Z.png",
+          "image_path": "data/generated_images/behind-the-scenes-shot-of-staff--8ef1af74e3-20260315T063324Z.png",
+          "mime_type": "image/png",
+          "text": "Here you go! Here you go!"
+        },
+        "ranking": {
+          "asset_id": "TD-SPRING-LI-001",
+          "topic_cluster_id": "t_flavor",
+          "visual_cluster_id": "v_product_closeup",
+          "predicted_ctr": 0.0538,
+          "score": 0.672,
+          "rationale": "Matched topic Flavor Discovery and visual Cup Close-Up."
+        }
+      }
+    },
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "TD-SPRING-IGR-002",
+      "channel": "Instagram Reel",
+      "scheduled_for": "2026-03-16T10:33:50.906435+00:00",
+      "payload": {
+        "asset_id": "TD-SPRING-IGR-002",
+        "pillar": "Health-Conscious Options",
+        "channel": "Instagram Reel",
+        "caption": "Looking for a lighter sip? Try our new low-caffeine Lychee Spring Tea\u2014customize your way for a fresh pick-me-up! \ud83c\udf43\u2728",
+        "image_prompt": "Pour action shot of Lychee Spring Tea, clear cup with light pastel colors, minimal foam, fresh lychee and tea leaves, overlay text: 'Low-Caffeine Spring Sip', spring-inspired background.",
+        "cta": "Try Lychee Spring Tea today!",
+        "topic_hint": "Low-caffeine option, customization tips",
+        "visual_hint": "Pour action, pastel palette, fresh fruit",
+        "target_segment": "Health-conscious, light caffeine seekers",
+        "generated_image": {
+          "provider": "nano_banana_gemini",
+          "status": "ok",
+          "image_url": "data/generated_images/pour-action-shot-of-lychee-sprin-dfa652992e-20260315T063331Z.png",
+          "image_path": "data/generated_images/pour-action-shot-of-lychee-sprin-dfa652992e-20260315T063331Z.png",
+          "mime_type": "image/png",
+          "text": "Here's your Here's your  action  action  shot of Lychee  shot of Lychee  Spring Tea!   Spring Tea!"
+        },
+        "ranking": {
+          "asset_id": "TD-SPRING-IGR-002",
+          "topic_cluster_id": "t_flavor",
+          "visual_cluster_id": "v_product_closeup",
+          "predicted_ctr": 0.0538,
+          "score": 0.672,
+          "rationale": "Matched topic Flavor Discovery and visual Cup Close-Up."
+        }
+      }
+    },
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "TDJ-SPR24-IGR-01",
+      "channel": "Instagram Reel",
+      "scheduled_for": "2026-03-15T11:47:12.524234+00:00",
+      "payload": {
+        "asset_id": "TDJ-SPR24-IGR-01",
+        "pillar": "Seasonal Drop & Ingredient Story",
+        "channel": "Instagram Reel",
+        "caption": "Spring is here\u2014and so is our handcrafted Lemon Tea! \ud83c\udf4b\u2728 Bursting with fresh lemon slices, bouncy pearls, and that signature TeaDojo touch. Locally sourced, made just for you. Limited time only\u2014save this post & try Lemon Tea today!",
+        "image_prompt": "Vibrant close-up of a glass of fragrant lemon tea with visible condensation, fresh lemon slices, golden pearls, and sakura flowers scattered around. Energetic spring-inspired lighting, focus on freshness and handcrafted detail. Use 'Fragrant-Lemon-Tea-1.jpeg' as the main subject.",
+        "cta": "Save & Try Lemon Tea Today!",
+        "topic_hint": "Spring Lemon Tea launch, freshness, local sourcing, limited time",
+        "visual_hint": "Cup close-up, topping texture, fresh lemons, sakura flowers, energetic spring palette",
+        "target_segment": "Bubble tea fans, seasonal flavor seekers",
+        "generated_image": {
+          "provider": "nano_banana_gemini",
+          "status": "ok",
+          "image_url": "data/generated_images/vibrant-close-up-of-a-glass-of-f-2d8c18817b-20260315T074608Z.png",
+          "image_path": "data/generated_images/vibrant-close-up-of-a-glass-of-f-2d8c18817b-20260315T074608Z.png",
+          "mime_type": "image/png",
+          "subject_images_received": 1,
+          "subject_images_used": 1,
+          "subject_warnings": [],
+          "text": "Here is your Here is your  vibrant  vibrant  close-up of  close-up of  a glass of fragrant  a glass of fragrant  lemon tea,  lemon tea,  incorporating  incorporating  all  all  the elements you requested  the elements you requested :  :"
+        },
+        "image_constraints_applied": {
+          "subjects": [
+            "fragrant lemon tea"
+          ],
+          "elements": [
+            "lemons",
+            "sakura flowers"
+          ],
+          "subject_image_count": 1,
+          "subject_image_names": [
+            "Fragrant-Lemon-Tea-1.jpeg"
+          ]
+        },
+        "ranking": {
+          "asset_id": "TDJ-SPR24-IGR-01",
+          "topic_cluster_id": "t_flavor",
+          "visual_cluster_id": "v_product_closeup",
+          "predicted_ctr": 0.0538,
+          "score": 0.672,
+          "rationale": "Matched topic Flavor Discovery and visual Cup Close-Up."
+        }
+      }
+    },
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "TDJ-SPR24-LIN-01",
+      "channel": "LinkedIn Post",
+      "scheduled_for": "2026-03-15T23:47:12.524234+00:00",
+      "payload": {
+        "asset_id": "TDJ-SPR24-LIN-01",
+        "pillar": "Brand Story & Sustainability",
+        "channel": "LinkedIn Post",
+        "caption": "At TeaDojo, every Lemon Tea starts with fresh, locally sourced lemons and eco-friendly packaging. Our team crafts each cup with care\u2014so you can sip with joy this spring. Discover our sourcing story and commitment to sustainability.",
+        "image_prompt": "Behind-the-scenes: staff preparing fragrant lemon tea, eco-friendly packaging in use, baskets of fresh lemons, sakura flowers for spring touch. Warm, authentic lighting. Use 'Fragrant-Lemon-Tea-1.jpeg' for product focus.",
+        "cta": "Learn more about our sourcing story.",
+        "topic_hint": "Sourcing, sustainability, brand values",
+        "visual_hint": "Staff in action, eco packaging, fresh lemons, spring accents",
+        "target_segment": "Conscious business community, sustainability-minded consumers",
+        "generated_image": {
+          "provider": "nano_banana_gemini",
+          "status": "ok",
+          "image_url": "data/generated_images/behind-the-scenes-staff-preparin-2cfb11c5bf-20260315T074638Z.png",
+          "image_path": "data/generated_images/behind-the-scenes-staff-preparin-2cfb11c5bf-20260315T074638Z.png",
+          "mime_type": "image/png",
+          "subject_images_received": 1,
+          "subject_images_used": 1,
+          "subject_warnings": [],
+          "text": "Here's your Here's your  image,  image,  showcasing staff preparing fragrant  showcasing staff preparing fragrant  lemon tea with eco  lemon tea with eco -friendly packaging, -friendly packaging,  fresh lemons, and  fresh lemons, and  a touch of sakura  a touch of sakura  for  for  spring,  spring,  all under warm,  all under warm,  authentic lighting!  authentic lighting!"
+        },
+        "image_constraints_applied": {
+          "subjects": [
+            "fragrant lemon tea"
+          ],
+          "elements": [
+            "lemons",
+            "sakura flowers"
+          ],
+          "subject_image_count": 1,
+          "subject_image_names": [
+            "Fragrant-Lemon-Tea-1.jpeg"
+          ]
+        },
+        "ranking": {
+          "asset_id": "TDJ-SPR24-LIN-01",
+          "topic_cluster_id": "t_flavor",
+          "visual_cluster_id": "v_product_closeup",
+          "predicted_ctr": 0.0538,
+          "score": 0.672,
+          "rationale": "Matched topic Flavor Discovery and visual Cup Close-Up."
+        }
+      }
+    },
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "TDJ-SPR24-IGS-01",
+      "channel": "Instagram Story Poll",
+      "scheduled_for": "2026-03-16T11:47:12.524234+00:00",
+      "payload": {
+        "asset_id": "TDJ-SPR24-IGS-01",
+        "pillar": "Customization & How-To",
+        "channel": "Instagram Story Poll",
+        "caption": "How do you take your Lemon Tea? \ud83c\udf4b\u2728 Vote below & screenshot your order to share!",
+        "image_prompt": "Bright, playful poll graphic featuring a cup of fragrant lemon tea, lemon slices, pearls, and sakura flowers. Poll options styled as fun buttons. Use 'Fragrant-Lemon-Tea-1.jpeg' for main image.",
+        "cta": "Vote & screenshot your order!",
+        "topic_hint": "Customization poll (sugar, pearls)",
+        "visual_hint": "Poll overlay, product close-up, spring elements",
+        "target_segment": "Instagram followers, customization fans",
+        "generated_image": {
+          "provider": "nano_banana_gemini",
+          "status": "ok",
+          "image_url": "data/generated_images/bright-playful-poll-graphic-feat-62862bc25d-20260315T074649Z.png",
+          "image_path": "data/generated_images/bright-playful-poll-graphic-feat-62862bc25d-20260315T074649Z.png",
+          "mime_type": "image/png",
+          "subject_images_received": 1,
+          "subject_images_used": 1,
+          "subject_warnings": [],
+          "text": "Here's a Here's a  bright  bright  and playful poll graphic  and playful poll graphic  featuring your fragrant lemon  featuring your fragrant lemon  tea! \n  tea!"
+        },
+        "image_constraints_applied": {
+          "subjects": [
+            "fragrant lemon tea"
+          ],
+          "elements": [
+            "lemons",
+            "sakura flowers"
+          ],
+          "subject_image_count": 1,
+          "subject_image_names": [
+            "Fragrant-Lemon-Tea-1.jpeg"
+          ]
+        },
+        "ranking": {
+          "asset_id": "TDJ-SPR24-IGS-01",
+          "topic_cluster_id": "t_flavor",
+          "visual_cluster_id": "v_product_closeup",
+          "predicted_ctr": 0.0538,
+          "score": 0.672,
+          "rationale": "Matched topic Flavor Discovery and visual Cup Close-Up."
+        }
+      }
+    },
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "IGR001",
+      "channel": "Instagram Reel",
+      "scheduled_for": "2026-03-15T13:52:22.774788+00:00",
+      "payload": {
+        "asset_id": "IGR001",
+        "pillar": "Seasonal Drop & Ingredient Story",
+        "channel": "Instagram Reel",
+        "caption": "Meet your new spring obsession: TeaDojo\u2019s Fragrant Lemon Tea! \ud83c\udf4b\u2728 Bursting with zesty lemons, juicy pearls, and a hint of sakura\u2014crafted fresh for Chinese New Year. Limited time only, so don\u2019t miss out! #TeaDojoCNY",
+        "image_prompt": "Vibrant close-up of a clear cup of fragrant lemon tea with fresh lemon slices, golden pearls, and sakura flowers. Background features festive red and gold accents, oranges, and lanterns. Energetic spring palette, focus on freshness and handcrafted details.",
+        "cta": "Save & Try Lemon Tea Today!",
+        "topic_hint": "Seasonal launch, ingredient freshness, limited-time offer",
+        "visual_hint": "Cup close-up, fresh lemons, pearls, sakura, festive CNY motifs, energetic colors",
+        "target_segment": "Bubble tea fans, seasonal flavor seekers, CNY celebrants",
+        "generated_image": {
+          "provider": "nano_banana_gemini",
+          "status": "ok",
+          "image_url": "data/generated_images/vibrant-close-up-of-a-clear-cup--0135c28ea2-20260315T095120Z.png",
+          "image_path": "data/generated_images/vibrant-close-up-of-a-clear-cup--0135c28ea2-20260315T095120Z.png",
+          "mime_type": "image/png",
+          "subject_images_received": 1,
+          "subject_images_used": 1,
+          "subject_warnings": [],
+          "text": ""
+        },
+        "image_constraints_applied": {
+          "subjects": [
+            "fragrant lemon tea"
+          ],
+          "elements": [
+            "oranges",
+            "lemons",
+            "lanterns"
+          ],
+          "subject_image_count": 1,
+          "subject_image_names": [
+            "Fragrant-Lemon-Tea-1.jpeg"
+          ]
+        },
+        "ranking": {
+          "asset_id": "IGR001",
+          "topic_cluster_id": "t_flavor",
+          "visual_cluster_id": "v_product_closeup",
+          "predicted_ctr": 0.0538,
+          "score": 0.672,
+          "rationale": "Matched topic Flavor Discovery and visual Cup Close-Up."
+        }
+      }
+    },
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "IGSP001",
+      "channel": "Instagram Story Poll",
+      "scheduled_for": "2026-03-16T01:52:22.774788+00:00",
+      "payload": {
+        "asset_id": "IGSP001",
+        "pillar": "Customization & How-To",
+        "channel": "Instagram Story Poll",
+        "caption": "How do you take your Lemon Tea? \ud83c\udf4b\u2728 Choose your style: Sweet or zesty? Pearls or classic? Vote below & screenshot your order to share! #CustomizeWithTeaDojo",
+        "image_prompt": "Playful Instagram Story layout with two cups of lemon tea side by side\u2014one with pearls, one without. Overlay poll stickers for sugar and pearls options. Festive background with lemons, oranges, and lanterns.",
+        "cta": "Vote & screenshot your order!",
+        "topic_hint": "Customization, interactive poll, user engagement",
+        "visual_hint": "Split-screen cups, poll overlays, bright festive elements",
+        "target_segment": "Instagram followers, customization fans, interactive users",
+        "generated_image": {
+          "provider": "nano_banana_gemini",
+          "status": "ok",
+          "image_url": "data/generated_images/playful-instagram-story-layout-w-3ac8069a97-20260315T095131Z.png",
+          "image_path": "data/generated_images/playful-instagram-story-layout-w-3ac8069a97-20260315T095131Z.png",
+          "mime_type": "image/png",
+          "subject_images_received": 1,
+          "subject_images_used": 1,
+          "subject_warnings": [],
+          "text": "Here's that Here's that  playful Instagram story  playful Instagram story  layout you requested with  layout you requested with  the  the  lemon tea!  lemon tea!"
+        },
+        "image_constraints_applied": {
+          "subjects": [
+            "fragrant lemon tea"
+          ],
+          "elements": [
+            "oranges",
+            "lemons",
+            "lanterns"
+          ],
+          "subject_image_count": 1,
+          "subject_image_names": [
+            "Fragrant-Lemon-Tea-1.jpeg"
+          ]
+        },
+        "ranking": {
+          "asset_id": "IGSP001",
+          "topic_cluster_id": "t_flavor",
+          "visual_cluster_id": "v_product_closeup",
+          "predicted_ctr": 0.0538,
+          "score": 0.672,
+          "rationale": "Matched topic Flavor Discovery and visual Cup Close-Up."
+        }
+      }
+    },
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "IGP001",
+      "channel": "Instagram Post",
+      "scheduled_for": "2026-03-16T13:52:22.774788+00:00",
+      "payload": {
+        "asset_id": "IGP001",
+        "pillar": "User-Generated Content & Community",
+        "channel": "Instagram Post",
+        "caption": "Show us your Lemon Tea cheers for Chinese New Year! \ud83c\udf4b\ud83e\udde7 Tag @TeaDojo and use #TeaDojoCheers for a chance to win a limited-edition CNY cup. Best cheers featured in our Stories!",
+        "image_prompt": "Bright, friendly image of hands holding up lemon tea cups in a group toast, surrounded by festive CNY decorations (lanterns, oranges, lemons). Overlay UGC prompt and prize visual.",
+        "cta": "Tag & Share Your Cheers!",
+        "topic_hint": "UGC prompt, community engagement, contest",
+        "visual_hint": "Group cheers, festive decor, prize highlight, energetic vibe",
+        "target_segment": "Community, UGC participants, festive Instagram users",
+        "generated_image": {
+          "provider": "nano_banana_gemini",
+          "status": "ok",
+          "image_url": "data/generated_images/bright-friendly-image-of-hands-h-34277ec93b-20260315T095211Z.png",
+          "image_path": "data/generated_images/bright-friendly-image-of-hands-h-34277ec93b-20260315T095211Z.png",
+          "mime_type": "image/png",
+          "subject_images_received": 1,
+          "subject_images_used": 1,
+          "subject_warnings": [],
+          "text": ""
+        },
+        "image_constraints_applied": {
+          "subjects": [
+            "fragrant lemon tea"
+          ],
+          "elements": [
+            "oranges",
+            "lemons",
+            "lanterns"
+          ],
+          "subject_image_count": 1,
+          "subject_image_names": [
+            "Fragrant-Lemon-Tea-1.jpeg"
+          ]
+        },
+        "ranking": {
+          "asset_id": "IGP001",
+          "topic_cluster_id": "t_flavor",
+          "visual_cluster_id": "v_product_closeup",
+          "predicted_ctr": 0.0538,
+          "score": 0.672,
+          "rationale": "Matched topic Flavor Discovery and visual Cup Close-Up."
+        }
+      }
+    },
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "IGR1",
+      "channel": "Instagram Reel",
+      "scheduled_for": "2026-03-15T14:29:48.548368+00:00",
+      "payload": {
+        "asset_id": "IGR1",
+        "pillar": "Seasonal Drop & Ingredient Story",
+        "channel": "Instagram Reel",
+        "caption": "Spring just got zesty! \ud83c\udf4b\u2728 Dennis reveals our handcrafted Fragrant Lemon Tea\u2014bursting with fresh lemons, juicy pearls, and a floral twist. Limited edition, made for your everyday cheers! #TeaDojoCNY #TeaDojoCheers",
+        "image_prompt": "Energetic Instagram Reel featuring Dennis, the celebrity model, holding and sipping TeaDojo's Fragrant Lemon Tea. Close-up shots of the drink with visible lemon slices and pearls, surrounded by vibrant CNY motifs like lanterns and oranges. Bright, festive lighting and playful overlays.",
+        "cta": "Save & Try Lemon Tea Today!",
+        "topic_hint": "Celebrity-led product reveal for limited-edition lemon tea",
+        "visual_hint": "Cup close-up first frame, Dennis smiling, CNY festive elements, product details visible",
+        "target_segment": "Bubble tea fans, seasonal flavor seekers, Instagram users 16-34",
+        "generated_image": {
+          "provider": "nano_banana_gemini",
+          "status": "ok",
+          "image_url": "data/generated_images/energetic-instagram-reel-featuri-2e25a381c6-20260315T102834Z.png",
+          "image_path": "data/generated_images/energetic-instagram-reel-featuri-2e25a381c6-20260315T102834Z.png",
+          "mime_type": "image/png",
+          "subject_images_received": 2,
+          "subject_images_used": 2,
+          "subject_warnings": [],
+          "text": "Here's your Here's your  image  image !  !"
+        },
+        "image_constraints_applied": {
+          "subjects": [
+            "Fragrant Lemon Tea",
+            "Dennis (our model)"
+          ],
+          "elements": [],
+          "subject_image_count": 2,
+          "subject_image_names": [
+            "Fragrant-Lemon-Tea-1.jpeg",
+            "DENNIS.jpg"
+          ]
+        },
+        "ranking": {
+          "asset_id": "IGR1",
+          "topic_cluster_id": "t_flavor",
+          "visual_cluster_id": "v_product_closeup",
+          "predicted_ctr": 0.0538,
+          "score": 0.672,
+          "rationale": "Matched topic Flavor Discovery and visual Cup Close-Up."
+        }
+      }
+    },
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "IGP1",
+      "channel": "Instagram Post",
+      "scheduled_for": "2026-03-16T02:29:48.548368+00:00",
+      "payload": {
+        "asset_id": "IGP1",
+        "pillar": "User-Generated Content & Community",
+        "channel": "Instagram Post",
+        "caption": "Cheers to new flavors and new friends! \ud83e\udd64\u2728 Share your best Lemon Tea cheers, tag @TeaDojo & use #TeaDojoCheers for a chance to win our limited-edition cup! Let\u2019s see those group smiles! \ud83c\udf4b",
+        "image_prompt": "Vibrant group photo of diverse young people holding up Fragrant Lemon Tea cups in a festive setting, with CNY decorations in the background. Laughter, cheers, and visible lemon slices and pearls in the drinks. UGC contest callout overlay.",
+        "cta": "Tag & Share Your Cheers!",
+        "topic_hint": "Community UGC contest for Lemon Tea launch",
+        "visual_hint": "Group cheers, visible product, festive CNY decor, contest overlay",
+        "target_segment": "Community-driven, social Instagram users, CNY celebrants",
+        "generated_image": {
+          "provider": "nano_banana_gemini",
+          "status": "ok",
+          "image_url": "data/generated_images/vibrant-group-photo-of-diverse-y-5e0889fae6-20260315T102907Z.png",
+          "image_path": "data/generated_images/vibrant-group-photo-of-diverse-y-5e0889fae6-20260315T102907Z.png",
+          "mime_type": "image/png",
+          "subject_images_received": 2,
+          "subject_images_used": 2,
+          "subject_warnings": [],
+          "text": "Here's a Here's a  vibrant group photo of  vibrant group photo of  diverse young people,  diverse young people,  including Dennis, holding  including Dennis, holding  up Fragrant Lemon  up Fragrant Lemon  Tea cups in a  Tea cups in a  festive CNY  festive CNY  setting,  setting,  with visible lemon slices  with visible lemon slices  and pearls,  and pearls,  along  along  with a  with a  UGC  UGC  contest callout overlay  contest callout overlay .\n\n ."
+        },
+        "image_constraints_applied": {
+          "subjects": [
+            "Fragrant Lemon Tea",
+            "Dennis (our model)"
+          ],
+          "elements": [],
+          "subject_image_count": 2,
+          "subject_image_names": [
+            "Fragrant-Lemon-Tea-1.jpeg",
+            "DENNIS.jpg"
+          ]
+        },
+        "ranking": {
+          "asset_id": "IGP1",
+          "topic_cluster_id": "t_flavor",
+          "visual_cluster_id": "v_product_closeup",
+          "predicted_ctr": 0.0538,
+          "score": 0.672,
+          "rationale": "Matched topic Flavor Discovery and visual Cup Close-Up."
+        }
+      }
+    },
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "IGS1",
+      "channel": "Instagram Story Poll",
+      "scheduled_for": "2026-03-16T14:29:48.548368+00:00",
+      "payload": {
+        "asset_id": "IGS1",
+        "pillar": "Customization & How-To",
+        "channel": "Instagram Story Poll",
+        "caption": "How do you lemon tea? \ud83c\udf4b\u2728 Dennis shows off his fave combo\u2014now it\u2019s your turn! Pick your sugar & toppings below \ud83d\udc47 #TeaDojoCheers",
+        "image_prompt": "Instagram Story video of Dennis at the TeaDojo counter, customizing his Fragrant Lemon Tea. Quick cuts of sugar and topping options, with interactive poll stickers. Bright, friendly vibe with branded colors and lemon visuals.",
+        "cta": "Vote & Screenshot Your Order!",
+        "topic_hint": "Interactive customization poll with celebrity demo",
+        "visual_hint": "Dennis demonstrating options, poll overlay, toppings and sugar jars in frame",
+        "target_segment": "Instagram users 16-34, customization-focused customers",
+        "generated_image": {
+          "provider": "nano_banana_gemini",
+          "status": "ok",
+          "image_url": "data/generated_images/instagram-story-video-of-dennis--72a3fa0271-20260315T102850Z.png",
+          "image_path": "data/generated_images/instagram-story-video-of-dennis--72a3fa0271-20260315T102850Z.png",
+          "mime_type": "image/png",
+          "subject_images_received": 2,
+          "subject_images_used": 2,
+          "subject_warnings": [],
+          "text": "Here is Here is  your Instagram Story video  your Instagram Story video  of Dennis at the  of Dennis at the  TeaDojo counter  TeaDojo counter , customizing his Frag , customizing his Frag rant Lemon Tea, rant Lemon Tea,  with quick cuts of  with quick cuts of  sugar and topping options  sugar and topping options , and , and  interactive poll stickers.  interactive poll stickers.  It  It  has a bright,  has a bright,  friendly vibe with branded  friendly vibe with branded  colors and lemon visuals  colors and lemon visuals .  ."
+        },
+        "image_constraints_applied": {
+          "subjects": [
+            "Fragrant Lemon Tea",
+            "Dennis (our model)"
+          ],
+          "elements": [],
+          "subject_image_count": 2,
+          "subject_image_names": [
+            "Fragrant-Lemon-Tea-1.jpeg",
+            "DENNIS.jpg"
+          ]
+        },
+        "ranking": {
+          "asset_id": "IGS1",
+          "topic_cluster_id": "t_flavor",
+          "visual_cluster_id": "v_pour_action",
+          "predicted_ctr": 0.0517,
+          "score": 0.646,
+          "rationale": "Matched topic Flavor Discovery and visual Pour Action Shot."
+        }
+      }
+    },
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "ig_post_001",
+      "channel": "Instagram Post",
+      "scheduled_for": "2026-03-15T15:21:02.260763+00:00",
+      "payload": {
+        "asset_id": "ig_post_001",
+        "pillar": "Product Launch",
+        "channel": "Instagram Post",
+        "caption": "Meet your new obsession: the Blue Coconut Latte! \ud83c\udf34\ud83d\udc99 Handcrafted, fresh, and now Dennis-approved. #TeaDojoDrop",
+        "image_prompt": "High-quality close-up of the Blue Coconut Latte with vibrant blue hues, featuring Dennis (local celebrity, friendly, smiling) holding the drink. Bright, energetic, and playful style. Product and Dennis in focus, visible blue coconut color.",
+        "cta": "Try it today and tag us in your first sip!",
+        "topic_hint": "Blue Coconut Latte launch with Dennis",
+        "visual_hint": "Dennis holding Blue Coconut Latte, close-up, vibrant blue, fun vibe",
+        "target_segment": "Gen Z and Millennials who love bubble tea and social moments",
+        "generated_image": {
+          "provider": "nano_banana_gemini",
+          "status": "ok",
+          "image_url": "data/generated_images/high-quality-close-up-of-the-blu-41adbc9bd3-20260315T111956Z.png",
+          "image_path": "data/generated_images/high-quality-close-up-of-the-blu-41adbc9bd3-20260315T111956Z.png",
+          "mime_type": "image/png",
+          "subject_images_received": 2,
+          "subject_images_used": 2,
+          "subject_warnings": [],
+          "text": "Here' Here' s an image of s an image of  Dennis holding a  Dennis holding a  Blue Coconut Latte!  Blue Coconut Latte!"
+        },
+        "image_constraints_applied": {
+          "subjects": [
+            "DENNIS (Our model)",
+            "Blue coconut latte"
+          ],
+          "elements": [],
+          "subject_image_count": 2,
+          "subject_image_names": [
+            "DENNIS.jpg",
+            "Blue-Coconut-Latte-1.jpeg"
+          ]
+        },
+        "ranking": {
+          "asset_id": "ig_post_001",
+          "topic_cluster_id": "t_flavor",
+          "visual_cluster_id": "v_product_closeup",
+          "predicted_ctr": 0.0538,
+          "score": 0.672,
+          "rationale": "Matched topic Flavor Discovery and visual Cup Close-Up."
+        }
+      }
+    },
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "ig_story_001",
+      "channel": "Instagram Story",
+      "scheduled_for": "2026-03-16T03:21:02.260763+00:00",
+      "payload": {
+        "asset_id": "ig_story_001",
+        "pillar": "Limited Drop",
+        "channel": "Instagram Story",
+        "caption": "Dennis can\u2019t get enough of our Blue Coconut Latte! Have you tried it yet?",
+        "image_prompt": "Dennis taking the first sip of Blue Coconut Latte, animated text overlays: 'Fresh', 'Customizable', 'Limited Drop'. Bright, energetic, authentic moment.",
+        "cta": "Tap to order now!",
+        "topic_hint": "Blue Coconut Latte limited drop with Dennis",
+        "visual_hint": "Dennis sipping, animated overlays, energetic story style",
+        "target_segment": "Gen Z and Millennials interested in new, limited drinks",
+        "generated_image": {
+          "provider": "nano_banana_gemini",
+          "status": "ok",
+          "image_url": "data/generated_images/dennis-taking-the-first-sip-of-b-cf31314ea4-20260315T112021Z.png",
+          "image_path": "data/generated_images/dennis-taking-the-first-sip-of-b-cf31314ea4-20260315T112021Z.png",
+          "mime_type": "image/png",
+          "subject_images_received": 2,
+          "subject_images_used": 2,
+          "subject_warnings": [],
+          "text": ""
+        },
+        "image_constraints_applied": {
+          "subjects": [
+            "DENNIS (Our model)",
+            "Blue coconut latte"
+          ],
+          "elements": [],
+          "subject_image_count": 2,
+          "subject_image_names": [
+            "DENNIS.jpg",
+            "Blue-Coconut-Latte-1.jpeg"
+          ]
+        },
+        "ranking": {
+          "asset_id": "ig_story_001",
+          "topic_cluster_id": "t_flavor",
+          "visual_cluster_id": "v_product_closeup",
+          "predicted_ctr": 0.0538,
+          "score": 0.672,
+          "rationale": "Matched topic Flavor Discovery and visual Cup Close-Up."
+        }
+      }
+    },
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "ig_carousel_001",
+      "channel": "Instagram Carousel",
+      "scheduled_for": "2026-03-16T15:21:02.260763+00:00",
+      "payload": {
+        "asset_id": "ig_carousel_001",
+        "pillar": "Customization",
+        "channel": "Instagram Carousel",
+        "caption": "['Dennis\u2019s pick: Blue Coconut Latte! \ud83d\udc99', 'Customize it your way\u2014ice, sweetness, toppings!', 'Why you\u2019ll love it: creamy coconut, dreamy blue, pure refreshment.']",
+        "image_prompt": "['Slide 1: Dennis excitedly holding Blue Coconut Latte, bright and playful, blue tones.', 'Slide 2: Step-by-step visual of customization options (ice, sweetness, toppings) with playful icons and energetic layout.', 'Slide 3: Close-up of Blue Coconut Latte with visible blue color, highlighting creamy texture and flavor notes.']",
+        "cta": "Swipe to build your perfect sip!",
+        "topic_hint": "Customization options for Blue Coconut Latte",
+        "visual_hint": "Dennis hero shot, customization steps, product close-up, playful icons",
+        "target_segment": "Gen Z and Millennials who value drink personalization",
+        "generated_image": {
+          "provider": "nano_banana_gemini",
+          "status": "ok",
+          "image_url": "data/generated_images/slide-1-dennis-excitedly-holding-b9bd78d100-20260315T112009Z.png",
+          "image_path": "data/generated_images/slide-1-dennis-excitedly-holding-b9bd78d100-20260315T112009Z.png",
+          "mime_type": "image/png",
+          "subject_images_received": 2,
+          "subject_images_used": 2,
+          "subject_warnings": [],
+          "text": "Here are the three Here are the three  slides you  slides you  requested:\n\nSlide  requested:\n\nSlide  1: Dennis  1: Dennis  excitedly holding a  excitedly holding a  Blue Coconut Latte,  Blue Coconut Latte,  with  with  bright  bright  and playful blue tones  and playful blue tones .\n ."
+        },
+        "image_constraints_applied": {
+          "subjects": [
+            "DENNIS (Our model)",
+            "Blue coconut latte"
+          ],
+          "elements": [],
+          "subject_image_count": 2,
+          "subject_image_names": [
+            "DENNIS.jpg",
+            "Blue-Coconut-Latte-1.jpeg"
+          ]
+        },
+        "ranking": {
+          "asset_id": "ig_carousel_001",
+          "topic_cluster_id": "t_customization",
+          "visual_cluster_id": "v_pour_action",
+          "predicted_ctr": 0.049,
+          "score": 0.613,
+          "rationale": "Matched topic Easy Customization and visual Pour Action Shot."
+        }
+      }
+    },
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "ig_post_001",
+      "channel": "Instagram Post",
+      "scheduled_for": "2026-03-15T21:14:18.205772+00:00",
+      "payload": {
+        "asset_id": "ig_post_001",
+        "pillar": "Limited-Edition Flavor Launch",
+        "channel": "Instagram Post",
+        "caption": "Dennis is loving the NEW Blue Coconut Latte! \ud83d\udc99\u2728 Handcrafted, fresh, and only here for spring. Ready to customize yours? #DennisApproved #TeaDojo",
+        "image_prompt": "Dennis (from DENNIS.jpg) holding a vibrant Blue Coconut Latte, close-up of the drink with visible blue color and fresh toppings, playful and energetic vibe, bright lighting, fun background, TeaDojo branding.",
+        "cta": "Try the Blue Coconut Latte today!",
+        "topic_hint": "Limited-edition launch with celebrity endorsement",
+        "visual_hint": "Product close-up, Dennis featured, vibrant blue drink, energetic composition",
+        "target_segment": "Gen Z and Millennials, bubble tea lovers, food trend followers",
+        "generated_image": {
+          "provider": "nano_banana_gemini",
+          "status": "ok",
+          "image_url": "data/generated_images/dennis-from-dennis-jpg-holding-a-564b311d9c-20260315T171301Z.png",
+          "image_path": "data/generated_images/dennis-from-dennis-jpg-holding-a-564b311d9c-20260315T171301Z.png",
+          "mime_type": "image/png",
+          "subject_images_received": 2,
+          "subject_images_used": 2,
+          "subject_warnings": [],
+          "text": ""
+        },
+        "image_constraints_applied": {
+          "subjects": [
+            "Mango-Pamelo-Boba.jpeg",
+            "DENNIS.jpg"
+          ],
+          "elements": [],
+          "subject_image_count": 2,
+          "subject_image_names": [
+            "Mango-Pamelo-Boba.jpeg",
+            "DENNIS.jpg"
+          ]
+        },
+        "ranking": {
+          "asset_id": "ig_post_001",
+          "topic_cluster_id": "t_flavor",
+          "visual_cluster_id": "v_product_closeup",
+          "predicted_ctr": 0.0538,
+          "score": 0.672,
+          "rationale": "Matched topic Flavor Discovery and visual Cup Close-Up."
+        }
+      }
+    },
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "ig_story_001",
+      "channel": "Instagram Story",
+      "scheduled_for": "2026-03-16T09:14:18.205772+00:00",
+      "payload": {
+        "asset_id": "ig_story_001",
+        "pillar": "Limited-Edition Flavor Launch",
+        "channel": "Instagram Story",
+        "caption": "Spring\u2019s coolest sip is here! Dennis can\u2019t get enough of the Blue Coconut Latte. \ud83c\udf34\ud83d\udc99 Only at TeaDojo for a limited time!",
+        "image_prompt": "Dennis (from DENNIS.jpg) sipping Blue Coconut Latte, animated overlays with fresh ingredient icons, limited-time badge, playful text, bright and fun story format.",
+        "cta": "Swipe up to order yours!",
+        "topic_hint": "Freshness and limited drop urgency",
+        "visual_hint": "Animated overlays, freshness highlights, Dennis in action, blue drink visible",
+        "target_segment": "Gen Z and Millennials, after-work crowd",
+        "generated_image": {
+          "provider": "nano_banana_gemini",
+          "status": "ok",
+          "image_url": "data/generated_images/dennis-from-dennis-jpg-sipping-b-b69627bf87-20260315T171314Z.png",
+          "image_path": "data/generated_images/dennis-from-dennis-jpg-sipping-b-b69627bf87-20260315T171314Z.png",
+          "mime_type": "image/png",
+          "subject_images_received": 2,
+          "subject_images_used": 2,
+          "subject_warnings": [],
+          "text": ""
+        },
+        "image_constraints_applied": {
+          "subjects": [
+            "Mango-Pamelo-Boba.jpeg",
+            "DENNIS.jpg"
+          ],
+          "elements": [],
+          "subject_image_count": 2,
+          "subject_image_names": [
+            "Mango-Pamelo-Boba.jpeg",
+            "DENNIS.jpg"
+          ]
+        },
+        "ranking": {
+          "asset_id": "ig_story_001",
+          "topic_cluster_id": "t_flavor",
+          "visual_cluster_id": "v_product_closeup",
+          "predicted_ctr": 0.0538,
+          "score": 0.672,
+          "rationale": "Matched topic Flavor Discovery and visual Cup Close-Up."
+        }
+      }
+    },
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "tiktok_001",
+      "channel": "TikTok Video",
+      "scheduled_for": "2026-03-16T21:14:18.205772+00:00",
+      "payload": {
+        "asset_id": "tiktok_001",
+        "pillar": "Celebrity Storytelling & Social Moments",
+        "channel": "TikTok Video",
+        "caption": "Dennis tries the Blue Coconut Latte for the first time\u2014and his reaction is priceless! \ud83d\ude02\ud83d\udc99 Duet or stitch with your own first sip!",
+        "image_prompt": "Dennis (from DENNIS.jpg) tasting Blue Coconut Latte for the first time, humorous facial expression, vibrant blue drink visible, fun and candid vibe, TeaDojo branding.",
+        "cta": "Duet or stitch with your reaction!",
+        "topic_hint": "Celebrity first-taste reaction, social engagement",
+        "visual_hint": "Humorous reaction, candid moment, blue drink close-up",
+        "target_segment": "Gen Z, TikTok users, trend followers",
+        "generated_image": {
+          "provider": "nano_banana_gemini",
+          "status": "ok",
+          "image_url": "data/generated_images/dennis-from-dennis-jpg-tasting-b-d62461c90a-20260315T171349Z.png",
+          "image_path": "data/generated_images/dennis-from-dennis-jpg-tasting-b-d62461c90a-20260315T171349Z.png",
+          "mime_type": "image/png",
+          "subject_images_received": 2,
+          "subject_images_used": 2,
+          "subject_warnings": [],
+          "text": ""
+        },
+        "image_constraints_applied": {
+          "subjects": [
+            "Mango-Pamelo-Boba.jpeg",
+            "DENNIS.jpg"
+          ],
+          "elements": [],
+          "subject_image_count": 2,
+          "subject_image_names": [
+            "Mango-Pamelo-Boba.jpeg",
+            "DENNIS.jpg"
+          ]
+        },
+        "ranking": {
+          "asset_id": "tiktok_001",
+          "topic_cluster_id": "t_flavor",
+          "visual_cluster_id": "v_product_closeup",
+          "predicted_ctr": 0.0538,
+          "score": 0.672,
+          "rationale": "Matched topic Flavor Discovery and visual Cup Close-Up."
+        }
+      }
+    },
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "asset_001",
+      "channel": "Instagram Post",
+      "scheduled_for": "2026-03-16T12:16:07.867458+00:00",
+      "payload": {
+        "asset_id": "asset_001",
+        "pillar": "Seasonal Drop Announcement",
+        "channel": "Instagram Post",
+        "caption": "Meet your new summer crush: Mango Pomelo! \ud83c\udf79\u2728 Handcrafted, bursting with tropical freshness, and totally customizable. Ready to sip? #TeaDojoMangoPomelo",
+        "image_prompt": "Bright, energetic close-up of the Mango Pomelo Drink in a clear cup, topped with fresh mango cubes, pomelo pulp, and chewy pearls. Include visible condensation, vibrant fruit motifs, and the TeaDojo logo. Background is fresh and summery with playful accents.",
+        "cta": "Try it now at TeaDojo!",
+        "topic_hint": "Limited-edition launch",
+        "visual_hint": "Cup close-up, real fruit, pearls, fresh and bright colors",
+        "target_segment": "Gen Z, young millennials, bubble tea fans",
+        "generated_image": {
+          "provider": "nano_banana_gemini",
+          "status": "ok",
+          "image_url": "data/generated_images/bright-energetic-close-up-of-the-880d509363-20260316T081519Z.png",
+          "image_path": "data/generated_images/bright-energetic-close-up-of-the-880d509363-20260316T081519Z.png",
+          "mime_type": "image/png",
+          "subject_images_received": 1,
+          "subject_images_used": 1,
+          "subject_warnings": [],
+          "text": ""
+        },
+        "image_constraints_applied": {
+          "subjects": [
+            "Mango Pomelo Drink"
+          ],
+          "elements": [],
+          "subject_image_count": 1,
+          "subject_image_names": [
+            "Mango-Pamelo-Boba.jpeg"
+          ]
+        },
+        "ranking": {
+          "asset_id": "asset_001",
+          "topic_cluster_id": "t_flavor",
+          "visual_cluster_id": "v_product_closeup",
+          "predicted_ctr": 0.0538,
+          "score": 0.672,
+          "rationale": "Matched topic Flavor Discovery and visual Cup Close-Up."
+        }
+      }
+    },
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "asset_005",
+      "channel": "Instagram Story / Post",
+      "scheduled_for": "2026-03-17T00:16:07.867458+00:00",
+      "payload": {
+        "asset_id": "asset_005",
+        "pillar": "UGC Prompt",
+        "channel": "Instagram Story / Post",
+        "caption": "How do you Mango Pomelo? Snap your custom creation, tag us, and show off your #TeaDojoMangoPomelo moment!",
+        "image_prompt": "Bright, friendly graphic with a Mango Pomelo Drink front and center, camera/phone icon, and callout for user photos. Fun, energetic background with playful fruit accents. TeaDojo logo and hashtag included.",
+        "cta": "Tag @TeaDojo for a chance to be featured!",
+        "topic_hint": "User-generated content, community",
+        "visual_hint": "Drink + phone/camera icon, hashtag, playful accents",
+        "target_segment": "TeaDojo fans, Instagram users, community builders",
+        "generated_image": {
+          "provider": "nano_banana_gemini",
+          "status": "ok",
+          "image_url": "data/generated_images/bright-friendly-graphic-with-a-m-2446e5e6e3-20260316T081559Z.png",
+          "image_path": "data/generated_images/bright-friendly-graphic-with-a-m-2446e5e6e3-20260316T081559Z.png",
+          "mime_type": "image/png",
+          "subject_images_received": 1,
+          "subject_images_used": 1,
+          "subject_warnings": [],
+          "text": ""
+        },
+        "image_constraints_applied": {
+          "subjects": [
+            "Mango Pomelo Drink"
+          ],
+          "elements": [],
+          "subject_image_count": 1,
+          "subject_image_names": [
+            "Mango-Pamelo-Boba.jpeg"
+          ]
+        },
+        "ranking": {
+          "asset_id": "asset_005",
+          "topic_cluster_id": "t_flavor",
+          "visual_cluster_id": "v_product_closeup",
+          "predicted_ctr": 0.0538,
+          "score": 0.672,
+          "rationale": "Matched topic Flavor Discovery and visual Cup Close-Up."
+        }
+      }
+    },
+    {
+      "campaign_id": "campaign_001",
+      "asset_id": "asset_004",
+      "channel": "Instagram Reel / TikTok",
+      "scheduled_for": "2026-03-17T12:16:07.867458+00:00",
+      "payload": {
+        "asset_id": "asset_004",
+        "pillar": "Pour Action ASMR",
+        "channel": "Instagram Reel / TikTok",
+        "caption": "Pour, splash, sip. \ud83c\udf79\ud83d\udc42 #TeaDojoMangoPomelo",
+        "image_prompt": "Slow-motion video of Mango Pomelo Drink being poured into a clear cup, ice clinking, real mango and pomelo bits swirling. Focus on sensory details: splash, bubbles, and condensation. Minimal text overlay, TeaDojo logo in corner.",
+        "cta": "Experience the freshness.",
+        "topic_hint": "Sensory, ASMR, product freshness",
+        "visual_hint": "Slow-motion pour, splash, ice, fruit bits",
+        "target_segment": "Gen Z, ASMR fans, Instagram/TikTok users",
+        "generated_image": {
+          "provider": "nano_banana_gemini",
+          "status": "ok",
+          "image_url": "data/generated_images/slow-motion-video-of-mango-pomel-66f9472a51-20260316T081550Z.png",
+          "image_path": "data/generated_images/slow-motion-video-of-mango-pomel-66f9472a51-20260316T081550Z.png",
+          "mime_type": "image/png",
+          "subject_images_received": 1,
+          "subject_images_used": 1,
+          "subject_warnings": [],
+          "text": ""
+        },
+        "image_constraints_applied": {
+          "subjects": [
+            "Mango Pomelo Drink"
+          ],
+          "elements": [],
+          "subject_image_count": 1,
+          "subject_image_names": [
+            "Mango-Pamelo-Boba.jpeg"
+          ]
+        },
+        "ranking": {
+          "asset_id": "asset_004",
+          "topic_cluster_id": "t_flavor",
+          "visual_cluster_id": "v_pour_action",
+          "predicted_ctr": 0.0517,
+          "score": 0.646,
+          "rationale": "Matched topic Flavor Discovery and visual Pour Action Shot."
+        }
+      }
+    }
+  ]
+}

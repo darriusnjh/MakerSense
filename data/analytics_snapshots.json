@@ -1,0 +1,336 @@
+﻿{
+  "brand_001": {
+    "snapshot_at": "2026-03-13T09:00:00Z",
+    "trend_signals": {
+      "strong": [
+        {
+          "theme": "seasonal fruit flavor drops",
+          "momentum": 0.87,
+          "evidence": "Higher save rate on limited-edition flavor posts"
+        },
+        {
+          "theme": "customization how-to reels",
+          "momentum": 0.79,
+          "evidence": "Improved completion rates on short step-by-step videos"
+        }
+      ],
+      "emerging": [
+        {
+          "theme": "low-caffeine tea alternatives",
+          "momentum": 0.63
+        },
+        {
+          "theme": "after-work tea run bundles",
+          "momentum": 0.59
+        }
+      ]
+    },
+    "topic_clusters": [
+      {
+        "topic_id": "t_flavor",
+        "label": "Flavor Discovery",
+        "keywords": [
+          "flavor",
+          "seasonal",
+          "fruit",
+          "boba",
+          "limited"
+        ],
+        "growth_rate": 0.24,
+        "engagement_rate": 0.43
+      },
+      {
+        "topic_id": "t_customization",
+        "label": "Easy Customization",
+        "keywords": [
+          "customize",
+          "sweetness",
+          "ice",
+          "topping",
+          "mix"
+        ],
+        "growth_rate": 0.21,
+        "engagement_rate": 0.4
+      },
+      {
+        "topic_id": "t_value",
+        "label": "Value Bundles",
+        "keywords": [
+          "bundle",
+          "deal",
+          "value",
+          "combo",
+          "student"
+        ],
+        "growth_rate": 0.17,
+        "engagement_rate": 0.35
+      }
+    ],
+    "visual_clusters": [
+      {
+        "visual_cluster_id": "v_product_closeup",
+        "style": "Cup Close-Up",
+        "motifs": [
+          "cup",
+          "pearls",
+          "foam",
+          "fruit",
+          "straw"
+        ],
+        "growth_rate": 0.23,
+        "engagement_rate": 0.45
+      },
+      {
+        "visual_cluster_id": "v_pour_action",
+        "style": "Pour Action Shot",
+        "motifs": [
+          "pour",
+          "splash",
+          "motion",
+          "ice",
+          "tea"
+        ],
+        "growth_rate": 0.2,
+        "engagement_rate": 0.41
+      },
+      {
+        "visual_cluster_id": "v_group_moment",
+        "style": "Friends Hangout",
+        "motifs": [
+          "friends",
+          "group",
+          "smile",
+          "table",
+          "store"
+        ],
+        "growth_rate": 0.14,
+        "engagement_rate": 0.34
+      }
+    ],
+    "entity_trends": [
+      {
+        "entity": "brown sugar pearls",
+        "category": "ingredient",
+        "mention_count": 194,
+        "growth_rate": 0.28
+      },
+      {
+        "entity": "mango green tea",
+        "category": "menu_item",
+        "mention_count": 161,
+        "growth_rate": 0.25
+      },
+      {
+        "entity": "student combo",
+        "category": "offer",
+        "mention_count": 119,
+        "growth_rate": 0.22
+      }
+    ],
+    "comments": [
+      {
+        "comment_id": "c_001",
+        "platform": "Instagram",
+        "segment": "new_high_intent",
+        "sentiment": "positive",
+        "text": "Can I choose 25 percent sugar with extra pearls?",
+        "extracted_topics": [
+          "customization",
+          "sweetness"
+        ]
+      },
+      {
+        "comment_id": "c_002",
+        "platform": "TikTok",
+        "segment": "returning_high_intent",
+        "sentiment": "positive",
+        "text": "The mango limited drop sold out fast, please restock this weekend.",
+        "extracted_topics": [
+          "seasonal",
+          "availability"
+        ]
+      },
+      {
+        "comment_id": "c_003",
+        "platform": "Instagram",
+        "segment": "casual_new",
+        "sentiment": "neutral",
+        "text": "Do you have a two-cup bundle for after work?",
+        "extracted_topics": [
+          "bundle",
+          "value"
+        ]
+      }
+    ],
+    "comment_clusters": [
+      {
+        "cluster_id": "cc_01",
+        "label": "Customization Questions",
+        "summary": "Shoppers want clearer options for sugar, ice, and toppings.",
+        "size": 128
+      },
+      {
+        "cluster_id": "cc_02",
+        "label": "Demand for Limited Flavors",
+        "summary": "Seasonal launches drive urgency and repeat visits.",
+        "size": 97
+      }
+    ],
+    "review_summaries": [
+      {
+        "source": "Google Maps",
+        "summary": "Customers praise drink flavor and freshness; peak-hour queue speed can improve.",
+        "sentiment_shift": 0.09,
+        "questions": [
+          "What is the fastest pre-order option?",
+          "Which branch has the latest seasonal stock?"
+        ]
+      },
+      {
+        "source": "Food Delivery",
+        "summary": "Strong repeat orders for fruit teas; combo pricing performs well on weekdays.",
+        "sentiment_shift": 0.06,
+        "questions": [
+          "Can bundles mix two different drinks?"
+        ]
+      }
+    ],
+    "segment_metrics": [
+      {
+        "segment": "new_high_intent",
+        "ctr": 0.048,
+        "saves_rate": 0.061,
+        "conversion_rate": 0.018
+      },
+      {
+        "segment": "returning_high_intent",
+        "ctr": 0.057,
+        "saves_rate": 0.068,
+        "conversion_rate": 0.026
+      },
+      {
+        "segment": "casual_new",
+        "ctr": 0.026,
+        "saves_rate": 0.031,
+        "conversion_rate": 0.007
+      }
+    ],
+    "competitor_posts": [
+      {
+        "post_id": "cp_200",
+        "competitor": "iTea",
+        "platform": "Instagram",
+        "hook": "Weekend mango storm is back",
+        "theme": "seasonal launch",
+        "offer": "buy 2 save 15 percent",
+        "performance_index": 0.79
+      },
+      {
+        "post_id": "cp_201",
+        "competitor": "Sweet Talk",
+        "platform": "TikTok",
+        "hook": "Build your own drink in 15 seconds",
+        "theme": "customization demo",
+        "offer": "free topping upgrade",
+        "performance_index": 0.83
+      },
+      {
+        "post_id": "cp_202",
+        "competitor": "Each A Cup",
+        "platform": "Instagram",
+        "hook": "Student hour combo after 4pm",
+        "theme": "value bundle",
+        "offer": "student combo",
+        "performance_index": 0.75
+      }
+    ],
+    "competitor_summaries": [
+      {
+        "competitor": "iTea",
+        "positioning": "limited flavor excitement",
+        "themes": [
+          "seasonality",
+          "visual product close-up"
+        ],
+        "posting_cadence_per_week": 5,
+        "notes": "High urgency promotions around weekend drops."
+      },
+      {
+        "competitor": "Sweet Talk",
+        "positioning": "fast personalization",
+        "themes": [
+          "customization",
+          "short-form demos"
+        ],
+        "posting_cadence_per_week": 4,
+        "notes": "Strong TikTok execution with concise tutorial content."
+      },
+      {
+        "competitor": "Each A Cup",
+        "positioning": "accessible everyday value",
+        "themes": [
+          "bundle pricing",
+          "student-friendly offers"
+        ],
+        "posting_cadence_per_week": 4,
+        "notes": "Consistent promotions centered on affordable tea runs."
+      }
+    ],
+    "post_objects": [
+      {
+        "post_id": "p_600",
+        "caption": "Choose your sweetness and toppings in 3 steps.",
+        "topic": "customization walkthrough",
+        "summary": "How-to reel with topping options"
+      },
+      {
+        "post_id": "p_601",
+        "caption": "This weekend only: lychee rose fruit tea.",
+        "topic": "seasonal flavor launch",
+        "summary": "Limited-time drop announcement"
+      }
+    ],
+    "prediction_scores": {
+      "topic_cluster_ctr": {
+        "t_flavor": 0.059,
+        "t_customization": 0.054,
+        "t_value": 0.045
+      },
+      "visual_cluster_ctr": {
+        "v_product_closeup": 0.058,
+        "v_pour_action": 0.052,
+        "v_group_moment": 0.041
+      },
+      "baseline_segment_bonus": {
+        "new_high_intent": 0.019,
+        "returning_high_intent": 0.025,
+        "casual_new": 0.009,
+        "all": 0.011
+      }
+    },
+    "published_posts": [
+      {
+        "post_id": "hist_10",
+        "asset_id": "tdj_hist_01",
+        "channel": "Instagram",
+        "summary": "Seasonal fruit close-up post",
+        "metrics": {
+          "ctr": 0.061,
+          "saves_rate": 0.072,
+          "comments_rate": 0.013
+        }
+      },
+      {
+        "post_id": "hist_11",
+        "asset_id": "tdj_hist_02",
+        "channel": "TikTok",
+        "summary": "Customization tutorial clip",
+        "metrics": {
+          "ctr": 0.055,
+          "saves_rate": 0.066,
+          "comments_rate": 0.011
+        }
+      }
+    ]
+  }
+}
